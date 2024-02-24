@@ -1,0 +1,20 @@
+{
+  "name": "anten-iphone",
+  "version": "1.0.0",
+  "description": "راهکاری آسان و سریع برای رجیستری گوشی‌های آیفون 14 و 15 در ایران! ✅",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.20",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.15.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  }
+}
